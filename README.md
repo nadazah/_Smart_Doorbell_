@@ -5,6 +5,5 @@ This project was done by:<p>
  <li>Nada Zahra</li>
  <li>Aymen Houidi</li>
 </ul>
-<br>
-#Context
+<hr># _Smart_Doorbell_
 
